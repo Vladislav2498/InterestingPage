@@ -224,28 +224,24 @@
 }
 
 .our-services-menu li {
+    padding: 30px 0;
     border: 1px solid rgba(218, 218, 218, 1);
     background: rgba(248, 252, 254, 1);
-}
-
-.our-services-menu li a {
-    text-decoration: none;
     color: rgba(113, 113, 113, 1);
-    display: flex;
-    justify-content: center;
-    padding: 30px 0;
+    cursor: pointer;
 }
 
-.our-services-menu li:hover a {
-    color: rgb(24 207 171);
-    text-decoration: none;
-}
 
 .our-services-menu li:hover {
     border: 1px solid rgba(24, 207, 171, 1);
+    color: rgba(24, 207, 171, 1);
 }
 
 .our-services-information {
+    display: none;
+}
+
+.our-services-information.active {
     display: flex;
     margin-top: 25px;
 }
@@ -255,6 +251,33 @@
     font-size: 14px;
     line-height: 24px;
     margin-left: 15px;
+
+}
+
+.our-services-menu-item.active  {
+    background: #18CFAB;
+    color: white;
+    position: relative;
+}
+
+.our-services-menu-item.active::after  {
+    position: absolute;
+    top: 74px;
+    left: 74px;
+    content: "";
+    width: 0;
+    height: 0;
+    border-left: 18px solid transparent;
+    border-right: 18px solid transparent;
+    border-top: 15px solid #18CFAB;
+}
+
+.our-services-menu-item.active:hover {
+    color: white;
+}
+
+.our-services-information img {
+    width: 190px;
 }
 
 
