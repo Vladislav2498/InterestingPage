@@ -19,7 +19,6 @@
     font-weight: normal;
 }
 
-
 .container {
     max-width: 1920px;
     width: 100%;
@@ -355,6 +354,7 @@
     display: flex;
     justify-content: center;
     margin-top: 90px;
+    margin-bottom: 90px;
 }
 
 .amazing-work-menu ul {
@@ -366,6 +366,7 @@
     padding: 22px 15px;
     text-decoration: none;
     color: rgba(113, 113, 113, 1);
+    cursor: pointer;
 }
 
 .amazing-work-menu a:first-child {
@@ -378,7 +379,9 @@
 }
 
 .amazing-work-content {
-    margin-top: 90px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
 }
 
 .our-amazing-work-button-load-more {
