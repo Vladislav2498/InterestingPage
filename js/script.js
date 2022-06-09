@@ -67,102 +67,100 @@ const products = [
     },
     {
         category: 'landingPage',
-        imgSrc: '../img/landing page/landing-page1.jpg',
+        imgSrc: 'img/landing page/landing-page1.jpg',
     },
     {
         category: 'landingPage',
-        imgSrc: '../img/landing page/landing-page2.jpg',
+        imgSrc: 'img/landing page/landing-page2.jpg',
     },
     {
         category: 'landingPage',
-        imgSrc: '../img/landing page/landing-page3.jpg',
+        imgSrc: 'img/landing page/landing-page3.jpg',
     },
     {
         category: 'landingPage',
-        imgSrc: '../img/landing page/landing-page4.jpg',
+        imgSrc: 'img/landing page/landing-page4.jpg',
     },
     {
         category: 'landingPage',
-        imgSrc: '../img/landing page/landing-page5.jpg',
+        imgSrc: 'img/landing page/landing-page5.jpg',
     },
     {
         category: 'landingPage',
-        imgSrc: '../img/landing page/landing-page6.jpg',
+        imgSrc: 'img/landing page/landing-page6.jpg',
     },
     {
         category: 'landingPage',
-        imgSrc: '../img/landing page/landing-page7.jpg',
+        imgSrc: 'img/landing page/landing-page7.jpg',
     },
     {
         category: 'webDesign',
-        imgSrc: '../img/web design/web-design1.jpg',
+        imgSrc: 'img/web design/web-design1.jpg',
     },
     {
         category: 'webDesign',
-        imgSrc: '../img/web design/web-design2.jpg',
+        imgSrc: 'img/web design/web-design2.jpg',
     },
     {
         category: 'webDesign',
-        imgSrc: '../img/web design/web-design3.jpg',
+        imgSrc: 'img/web design/web-design3.jpg',
     },
     {
         category: 'webDesign',
-        imgSrc: '../img/web design/web-design4.jpg',
+        imgSrc: 'img/web design/web-design4.jpg',
     },
     {
         category: 'webDesign',
-        imgSrc: '../img/web design/web-design5.jpg',
+        imgSrc: 'img/web design/web-design5.jpg',
     },
     {
         category: 'webDesign',
-        imgSrc: '../img/web design/web-design6.jpg',
+        imgSrc: 'img/web design/web-design6.jpg',
     },
     {
         category: 'webDesign',
-        imgSrc: '../img/web design/web-design7.jpg',
+        imgSrc: 'img/web design/web-design7.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress1.jpg',
+        imgSrc: 'img/wordpress/wordpress1.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress2.jpg',
+        imgSrc: 'img/wordpress/wordpress2.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress3.jpg',
+        imgSrc: 'img/wordpress/wordpress3.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress4.jpg',
+        imgSrc: 'img/wordpress/wordpress4.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress5.jpg',
+        imgSrc: 'img/wordpress/wordpress5.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress6.jpg',
+        imgSrc: 'img/wordpress/wordpress6.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress7.jpg',
+        imgSrc: 'img/wordpress/wordpress7.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress8.jpg',
+        imgSrc: 'img/wordpress/wordpress8.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress9.jpg',
+        imgSrc: 'img/wordpress/wordpress9.jpg',
     },
     {
         category: 'wordpress',
-        imgSrc: '../img/wordpress/wordpress10.jpg',
+        imgSrc: 'img/wordpress/wordpress10.jpg',
     },
-
-
 ];
 
 
